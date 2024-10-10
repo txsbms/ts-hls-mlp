@@ -1,3 +1,7 @@
+# FPGA-Accelerated Multi-Layer Perceptron
+### Multi-Layer Perceptron used to classify handwritten digits. Project done using Vitis HLS.
+
+## Usage and Documentation
 Ensure that “cppvars.dat” is included with the project. 
 If it is not included, a valid “cppvars.dat” file has been provided to include manually. 
 Running “mlp_data.py” will also generate this file. 
